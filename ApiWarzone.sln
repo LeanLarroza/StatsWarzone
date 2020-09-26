@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiWarzone", "ApiWarzone\ApiWarzone.csproj", "{86A6299E-D463-4041-BFC2-C5101045F3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86A6299E-D463-4041-BFC2-C5101045F3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A6299E-D463-4041-BFC2-C5101045F3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A6299E-D463-4041-BFC2-C5101045F3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A6299E-D463-4041-BFC2-C5101045F3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA11F42-78E9-43E0-AB03-104DE8165BD2}
+	EndGlobalSection
+EndGlobal
